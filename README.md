@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rvigneshw
-- 👀 I’m interested in architecting systems and microSaaS
+- 👀 I’m interested in microSaaS.
 - 📫 Drop a mail vigneshw1811@gmail.com 
 
 <!---
