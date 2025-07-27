@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rvigneshw
+- 👋 Hi, I’m Vigneshwaran Rajasekar
 - 👀 I’m interested in microSaaS.
 - 📫 Drop a mail vigneshw1811@gmail.com 
 
